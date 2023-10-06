@@ -2,7 +2,7 @@ body , .main-loader-wrap , .fixed-filter .filter-header , .wrap-inner .gallery-i
 	background:#2A2A2E;
 }
 header.main-header , .nav-holder-wrap , .footer-inner  , .loader-spin:after , .pl-row span  , .inline-filter a , .grid-det , .gallery-items.hid-port-info .grid-det , .fixed-filter  , .filter-wrap.inline-filter.boxed-filter , .wrap-inner , .portfolio-wrap .swiper-scrollbar , .scroll-nav-wrap , .inline-facts , .team-social li a  , .custom-inner-content ul  , .tab-content  , .tb-item  , .chart  , .client-text  , .client-item , .contact-detail , .pagination , .ws_column , .cat-wid li a {
-	background: #35353A;
+	background: #000000;
 }
  .middle-circle  , .appn i , .tooltip    , .team-link:before , .client-item:hover .client-img , #contact-form input[type=text]:focus, #contact-form textarea:focus, input[type=email]:focus     {
 	background: #303035;
@@ -39,7 +39,7 @@ header.main-header , .nav-holder-wrap , .footer-inner  , .loader-spin:after , .p
 	color: #fff
 }
 .nav-title  , .footer-inner p  ,  .fixed-filter .filter-header , .section-title h4  ,  .project-detail-wrap blockquote p  , .inline-facts h6 , .team-info h4 , .resum-header span , .custom-inner-content ul li , .percent , .testi-text p , .skill-bar-percent , .custom-skillbar-title span  , .contact-detail   p , #success_page p , .widget-posts-date    , .post-opt li span, .post-opt li a  , .post-author-wrap span , .comment-meta, .comment-meta a  {
-	color: #fff500;
+	color: #fff827;
 }
 .to-top i , .appn:hover span , .sl-tabs li.current h3 , .testi-text:before , .post-author-wrap li a   {
 	color: #000;

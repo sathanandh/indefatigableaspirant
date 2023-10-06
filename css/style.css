@@ -1156,7 +1156,7 @@ section {
 	overflow:hidden;
 }
 .section-title {
-	margin-bottom:40px;
+	margin-bottom:0px;
 }
 .section-title  h2{
 	float:left;
@@ -3422,7 +3422,7 @@ section.parallax-section.video-section .overlay {
 	color:#fff;
 }
 .project-detail-wrap blockquote p {
-	font-size:12px;
+	font-size:15px;
 	font-weight:500;
 }
 .page-nav {
